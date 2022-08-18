@@ -1,9 +1,10 @@
-@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@300;500&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500&family=Fira+Code:wght@300;500&display=swap');
 
 header {
     
-    background-color:#95afc0;
-    border-bottom: solid 8px #000;
+    background-color:#000;
+    border-bottom: solid 6px #808e9b;
     padding: 20px 10px;
     display: flex;
     justify-content: space-between;
@@ -13,23 +14,24 @@ header {
 
 #logo{
 
-    width: 90px;
+    width: 80px;
     height: 80px;
-    top: -519px;
-    left: -409px;
+    top: -503px;
+    left: -700px;
     
 }
 
 nav {
 
     text-align: right;
+    
 }
 
 a {
 
     display: inline-flex;
     align-items: center;
-    color: #dff9fb;
+    color: #EEEEEE;
     font-size: 20px;
     font-family: "Fira code";
     font-weight: 500;
@@ -53,7 +55,7 @@ a:before{
     background-color: #535c68;
     height: 60px;
     line-height: 60px;
-    box-shadow:  5px 5px 0px #dff9fb;
+    box-shadow:  5px 5px 0px #EEEEEE;
     padding-left: 20px;
     padding-right: 20px;
     transition: transform 100ms linear;
@@ -70,6 +72,43 @@ a:before{
 
 body {
 
-    background-color: #535c68;
+    background-color: #1e272e;
 
 }
+
+
+.container{
+
+    width: 955px; 
+    height: 797px;
+    top: 80px;
+    background-image:url("../img/comensais.jpg");
+    position: absolute;
+    background-repeat: no-repeat;
+    margin-top:48px;
+     
+    
+
+}
+
+
+div{
+
+    width: 627px; 
+    height: 184px;
+    top: 196px;
+    left: 91px;
+    background-color: #3a404289;
+    text-align: center;
+    padding: 20px;
+    position:absolute;
+
+}
+
+.comensais{
+
+    font-size: 40px;
+    font-family:Cinzel;
+    color: #fff; 
+}
+
