@@ -1,9 +1,11 @@
+
 .title{
-    font-size: 55px;
-    font-family:Cinzel;
+
     color: #aabcc8;
+    font-size: 4rem;
+    line-height: 3rem;
+    font-weight: 500;
     text-shadow:10px 10px 8px #000;
     margin-top: 70px;
-   
+    font-family:"Cinzel", Arial, Helvetica, sans-serif;
 }
-

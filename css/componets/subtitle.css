@@ -1,8 +1,11 @@
 .subtitle{
 
-    font-size: 40px;
+   
     font-family:Cinzel;
-    color: #678599;
+    color: #64879e;
     text-shadow:10px 10px 8px #000;
     margin-bottom: 70px;
+    font-size: 2rem;
+    line-height: 3rem;
+    font-weight: 500;
 }

@@ -11,7 +11,7 @@
 
 .action::before {
     content: "";
-    background-color: #535c68;
+    background-color: #eeeeee80;
     width: 10px;
     height: 10px;
     margin-right: 10px;
