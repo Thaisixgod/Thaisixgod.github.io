@@ -1,6 +1,9 @@
-h1{
-    font-size: 50px;
+.title{
+    font-size: 55px;
     font-family:Cinzel;
-    color: #eeee;
-    text-shadow:10px 10px 8px #000}
+    color: #aabcc8;
+    text-shadow:10px 10px 8px #000;
+    margin-top: 70px;
+   
+}
 

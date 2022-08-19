@@ -1,6 +1,8 @@
-h2{
+.subtitle{
 
-    font-size: 50px;
+    font-size: 40px;
     font-family:Cinzel;
-    color: #95afc0;
-    text-shadow:10px 10px 8px #000}
+    color: #678599;
+    text-shadow:10px 10px 8px #000;
+    margin-bottom: 70px;
+}
