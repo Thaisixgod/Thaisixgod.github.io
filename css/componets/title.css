@@ -2,10 +2,16 @@
 .title{
 
     color: #aabcc8;
-    font-size: 4rem;
-    line-height: 3rem;
+    font-size: 3.6rem;
+    line-height: 4rem;
     font-weight: 500;
     text-shadow:10px 10px 8px #000;
     margin-top: 70px;
     font-family:"Cinzel", Arial, Helvetica, sans-serif;
+}
+
+.title.-second{
+    text-shadow:6px 0 15px #eee;
+    text-align: center;
+    margin-top: 30px;
 }
