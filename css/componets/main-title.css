@@ -1,5 +1,5 @@
 
-.title{
+.main-title{
 
     color: #aabcc8;
     font-size: 3.6rem;
@@ -10,8 +10,10 @@
     font-family:"Cinzel", Arial, Helvetica, sans-serif;
 }
 
-.title.-second{
+.main-title.-second{
+    color:#000;
     text-shadow:6px 0 15px #eee;
     text-align: center;
-    margin-top: 30px;
+    margin: 0;
+   
 }
