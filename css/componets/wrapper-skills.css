@@ -1,0 +1,29 @@
+.wrapper-skills{
+
+    display: flex;
+    flex-wrap:wrap;
+    max-width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+    
+
+    
+}
+
+.wrapper-skills .skill-darkness{
+
+    width:420px;
+    margin-bottom: 40px;
+ }
+
+ .wrapper-skills .skill-darkness:nth-child(odd){
+
+    margin-right:100px;
+ }
+
+
+ .wrapper-skills .progress-bar{
+
+width: 320px;
+
+ }

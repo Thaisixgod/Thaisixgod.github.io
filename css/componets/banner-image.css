@@ -1,4 +1,4 @@
-.banner{
+.banner-image{
 
     background-image: url("/img/lord.jpg");
     background-size:cover;
@@ -11,21 +11,21 @@
     padding-left:20px;
 }
 
-.banner .wrapper{
+.banner-image .wrapper{
 
     display: flex;
     flex-direction: column;
     width: 640px;
    
 }
-.banner .box{
+.banner-image .box{
 
     margin-bottom: 30px;
 
 }
     
 
-.banner .navigation{
+.banner-image .navigation{
   
     display: flex;
     justify-content: space-around;
