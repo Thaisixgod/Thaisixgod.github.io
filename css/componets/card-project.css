@@ -2,7 +2,7 @@
 
     width: 280px;
     height: 280px;
-    background-color: #787A91;
+    background-color: #595358;
     align-items: center;
     display: flex;
     justify-content: center;
@@ -12,13 +12,14 @@
 
 .card-project.-blue{
 
-    background-color:#16003B;
+    background-color:#7c5e99af;
 }
 
 
 .card-project.-gray{
 
-    background-color:#333456;
+    background-color:#335150;
+    ;
 }
 
 
