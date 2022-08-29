@@ -4,6 +4,7 @@
  padding-top: 50px;
  padding-bottom: 100px;
  border-bottom: solid 6px #808e9b;
+ height: 589px;
 
 }
 
@@ -14,6 +15,7 @@
 
 .section.-bgBlack{
 
+    height: 588px;
     background-color:#000;
 }
 
