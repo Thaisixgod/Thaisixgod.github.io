@@ -1,0 +1,31 @@
+.main-section{
+ 
+ background-color: #F25A70;
+ padding-top: 50px;
+ padding-bottom:50px;
+ border-top: solid 6px #808e9b;
+ height: 720px;
+
+}
+
+
+.main-section .main-title{
+
+    margin-bottom:80px;
+}
+
+.main-section.-bgBlack{
+
+     background-color:#000;
+}
+
+.main-section.-bdFirst{
+
+    border-color: #105393;
+}
+
+.main-section.-bgPurple{
+
+
+    background-color:#7c5e99af;
+}

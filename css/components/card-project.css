@@ -5,8 +5,9 @@
     background-color: #595358;
     align-items: center;
     display: flex;
-    justify-content: center;
+    justify-content:center;
     box-shadow: 8px 8px 10px #fff;
+    margin-top: 120px;
 }
  
 

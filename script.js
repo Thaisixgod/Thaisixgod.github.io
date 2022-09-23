@@ -1,2 +1,3 @@
-var nome = prompt("Qual seu nome?")
-alert("Ei" + " " + nome + ", " + "estou configurando os links da página :)")
+//var nome = prompt("Qual seu nome?")
+//alert("Oi " + nome + ", estou configurando os links da página :)");
+

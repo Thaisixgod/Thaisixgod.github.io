@@ -1,0 +1,41 @@
+.main-banner{
+
+    background-image: url("/img/Monitor-pana.svg");
+
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:right 80% top 20% ;
+    height:694px;
+    padding-top: 95px;
+    padding-right: 20px;
+    padding-left:20px;
+    position: relative;
+   
+}
+
+.main-banner .wrapper{
+
+    display: flex;
+    flex-direction: column;
+    width: 640px;
+   
+    
+   
+}
+.main-banner .main-box{
+
+    margin-bottom: 30px;
+
+}
+    
+
+.main-banner .navigation{
+  
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+    left: 75%;
+    bottom:150px;
+}
+
+

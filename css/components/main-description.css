@@ -1,0 +1,10 @@
+.main-description{
+
+color: rgb(22, 20, 20);
+font-size: 30px;
+font-weight: 300;
+padding-right: 25px;
+padding-left: 25px;
+display: flex;
+margin-bottom: 50px;
+}

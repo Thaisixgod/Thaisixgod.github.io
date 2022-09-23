@@ -1,4 +1,4 @@
-.skill-darkness{
+.skill-dark{
 
     display: flex;
     font-family: "Fira Code", Arial, Helvetica, sans-serif;
@@ -9,7 +9,7 @@
     
 }
 
-.skill-darkness .icon{
+.skill-dark .icon{
 
     margin-right: 25px;
     width: 80px;
@@ -17,14 +17,14 @@
     
 }
 
-.skill-darkness .right{
+.skill-dark .right{
 
     display: flex;
     flex-direction: column ;
     justify-content: space-around;
 }
 
-.skill-darkness .title{
+.skill-dark .title{
 
     margin-bottom: 11px;
 }

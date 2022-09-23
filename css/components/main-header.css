@@ -1,0 +1,16 @@
+.main-header{
+
+    background-color: rgba(12, 12, 12, 0.575);
+    border-bottom: solid 6px #808e9b;
+    padding: 10px 30px;
+    display:flex;
+    justify-content: space-between
+
+}
+
+
+#logo{
+width: 90px;
+height: 90px;
+border-radius: 50%;
+}

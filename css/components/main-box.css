@@ -1,0 +1,21 @@
+.main-box{
+
+    width: 600px; 
+    height: 340px;
+    background-color:#7C5E99;
+    border: none;
+    border-radius: 10px;
+    text-align: center;
+    padding: 42px 44px;
+    display: inline-block;
+    position: relative;
+    left: 450px;
+    
+    
+}
+
+.main-box .title{
+
+    margin-bottom: 28px;
+}
+
